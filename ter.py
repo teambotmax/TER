@@ -151,7 +151,7 @@ wait = {
     'autoBlock':True,
     'autoAdd':False,
     'autoRead':False,
-    'autoLeave':True,
+    'autoLeave':False,
     'autoLeave1':True,
     "detectMention":False,
     "Mentionkick":False,
